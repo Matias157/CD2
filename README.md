@@ -11,5 +11,4 @@ Alexandre Herrero Matias, 1890484, Matias0159, EC, UTFPR
 
 Lucas da Silva Nolasco, 1860240, lucasnolasco, EC, UTFPR
 
-Nome Membro 03, RA_Membro_03, login_membro_03, EC, UTFPR
-
+Nicolas Abril, 1367366, nicolasabril, EC, UTFPR
