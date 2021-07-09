@@ -1,14 +1,14 @@
-# Projeto: (substitua pelo nome do projeto quando estiver definido)
+# Projeto: ...
 
-## Equipe: (substitua pelo nome da equipe)
+## Equipe: ...
 
-## Descrição: (descreva seu projeto quando estiver definido)
+## Descrição: Pretendemos avaliar o impacto da extinção de uma espécie em outras espécies relacionadas. Para isso pretendemos utilizar os dados das espécies em extinção fornecidos pela IUCN e os dados de interações entre as espécies fornecido pelo Global Biotic Interactions.
 
-## Membros: (liste os membros informando nome, RA, login gitlab, curso, universidade. siga o exemplo abaixo)
+## Membros:
 
-Nome Membro 01, RA_Membro_01, login_membro_01, BSI, UTFPR
+Alexandre Herrero Matias, 1890484, Matias0159, EC, UTFPR
 
-Nome Membro 02, RA_Membro_02, login_membro_02, EC, UTFPR
+Lucas da Silva Nolasco, 1860240, lucasnolasco, EC, UTFPR
 
-Nome Membro 03, RA_Membro_03, login_membro_03, PPGCA, UTFPR
+Nome Membro 03, RA_Membro_03, login_membro_03, EC, UTFPR
 
