@@ -2,7 +2,8 @@
 
 ## Equipe: ...
 
-## Descrição: Pretendemos avaliar o impacto da extinção de uma espécie em outras espécies relacionadas. Para isso pretendemos utilizar os dados das espécies em extinção fornecidos pela IUCN e os dados de interações entre as espécies fornecido pelo Global Biotic Interactions.
+## Descrição: 
+Pretendemos avaliar o impacto da extinção de uma espécie em outras espécies relacionadas. Para isso pretendemos utilizar os dados das espécies em extinção fornecidos pela IUCN e os dados de interações entre as espécies fornecido pelo Global Biotic Interactions.
 
 ## Membros:
 
